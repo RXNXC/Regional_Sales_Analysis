@@ -17,7 +17,7 @@ Deliverables
 
 Tools & Methods
 Tool	Usage
-- Excel:	SUMIF, SUMIFS, AVERAGEIF, COUNTIF, COUNTIFS, RANK, MAXIFS
+- Excel:	Power Query, Pivot tables, DAX measures
 - Excel Charts: Clustered bar, clustered column, combo (column + line)
 - Date Arithmetic- 	Derived Delivery Days column from OrderDate and DeliveryDate
 
